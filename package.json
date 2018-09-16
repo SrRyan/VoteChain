@@ -1,0 +1,25 @@
+{
+  "name": "votechain",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.0.3",
+    "@material-ui/icons": "^3.0.1",
+    "contentful": "^7.0.3",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "passport": "~0.2.0",
+    "passport-google-oauth": "^1.0.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-native": "^0.57.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
