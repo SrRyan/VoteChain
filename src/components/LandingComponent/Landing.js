@@ -12,7 +12,7 @@ const Landing = (props, context) => {
                 <div className="login fadeIn">
                     <Typography variant="headline">Welcome to VoteChain</Typography>
 
-                    <Typography style={{padding: 10}}>A Voting Platform built on Blockchain</Typography>
+                    <Typography style={{padding: 10}}>A Voting Platform built on HyperLedger Technology</Typography>
 
                     <div className="buttonLogin">
                         <Link to="/dashboard">
